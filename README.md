@@ -1,3 +1,3 @@
-PHP Advnnced Code Repository
+PHP Advanced Code Repository
 ====
 
